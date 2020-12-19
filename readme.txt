@@ -1,5 +1,5 @@
-I`ve tried to do this project twice in two different ways.
-The first alternative, ended up not being exactly as useful and prompt as I thought so after a couple of days working on it I decided to stop completely and start a new program from the beginning. I still kept some parts of my old program into this one, which can be shown upon request.
+I`ve struggled so much to get this project done. The different ways to do it got me confusedm, but in the end I succeeded.
+One of the first ways to do the project, after trying a lot, it ended up not being as useful and prompt as I thought it would be and so after a couple of days working on it I decided to stop completely and start a new program from the beginning. I still kept some parts of my old program into this one, which can be shown upon request.
 
 My first struggle was to manage the quantity of information that we needed to input from the user and also record this information into text files. Every time I work with many variables or classes there`s some confusion so I first try to do a pseudocode, which I find even more useful than the UML, being completely honest. After that, I was able to finish my UML more confident of what I knew that I would need for this project.
 
